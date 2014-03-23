@@ -1,0 +1,5 @@
+/target
+/.settings
+/src/main/gwt-unitCache
+/src/main/webapp/gwtrestapp
+/src/main/webapp/WEB-INF
